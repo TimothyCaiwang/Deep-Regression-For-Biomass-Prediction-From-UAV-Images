@@ -1,4 +1,4 @@
-# Deep-Regression-For-Biomass-Prediction-From-UAV-Images
+**Deep Regression For Biomass Prediction From UAV Images Using Pyhthon Scripts (Pytorch)**
 
 We used six popular CNN networks (including ResNet-18/34/50, VGG-16, DenseNet, MobileNetV2) and two Transformer architectures (ViT and T2TViT) from Pytorch as the backbone for feature extraction. 
 The last fully connected layer was changed to a linear regression layer so that the models were suitable for regression problems.
